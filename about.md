@@ -4,21 +4,22 @@ title: About
 permalink: /about/
 ---
 
-self:
-  skills:
-    - linux sysadmin
-    - ansible
-    - vmware
-    - kubernetes
-    - aws
-    - azure
-    - python
-    - terraform
+### Intro
+
+### Skills
+- linux sysadmin
+- ansible
+- vmware
+- kubernetes & containers
+- aws
+- azure
+- python
+- terraform
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Coming soon!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+See the links in the footer below for various ways to contact me.
