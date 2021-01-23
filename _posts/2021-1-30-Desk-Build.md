@@ -51,4 +51,4 @@ Here's a list of items, (with non-affiliate links), as well as any tools or othe
   
   Be sure to double-check your placement on your display, and get it right where you want it - try and orient the desk right-side-up in your mind and envision the turns the whole unit will have to go through to get there to determine where you need to put it. I definitely recommend off to one side along the front edge, but you can do whatever you'd like (you'll have to live with it!).
 
-  ![The final product({{ site.baseurl }}/images/assembled-unclean-desk.jpg "The final product")
+  ![The final product]({{ site.baseurl }}/images/assembled-unclean-desk.jpg "The final product")
