@@ -43,7 +43,7 @@ Here's a list of items, (with non-affiliate links), as well as any tools or othe
   
   After the first coat, I gave it approximately 2 hours of cure time (averaging 70 degrees in the garage, it was a colder Southern California day). I then took the sand paper and went over the top and sides, being careful to hit the full surface and give it a little grit back. I then wiped it down again with the wet cloth, giving it another 20 minutes of dry time. I then repeated the process of doing a second coat similar to the first, then waiting 2 hours, then sanding & cleaning again, to finally do the 3rd coat. After giving it 2 hours to dry, I proclaimed the top good to go and left it alone for a few more hours to off-gas as much as possible before bringing it in.
   
-  {{ site.baseurl }}/images/desk-while-sealing.jpg
+  ![The final sealed product]({{ site.baseurl }}/images/desk-while-sealing.jpg "The final sealed product")
   
   Once back inside, I flipped the top over so the finished surface was face down on the ground, then placed the frame upside down (feet facing up) on top of it, adjusting and playing with the spacing to get everything lined up appropriately. For the width, I measured 2 inches in from both sides, then moved the outer-most portion of the frame to that mark; once the width was dialed in, I tightened down the middle screws to lock it in place. I then measured the 4 points/corners of the frame to make sure it was square on the top - you don't have to get down into 1/16ths of an inch here, but you do want it to be relatively close.
   
@@ -51,4 +51,4 @@ Here's a list of items, (with non-affiliate links), as well as any tools or othe
   
   Be sure to double-check your placement on your display, and get it right where you want it - try and orient the desk right-side-up in your mind and envision the turns the whole unit will have to go through to get there to determine where you need to put it. I definitely recommend off to one side along the front edge, but you can do whatever you'd like (you'll have to live with it!).
 
-  {{ site.baseurl }}/images/assembled-unclean-desk.jpg
+  ![The final (unclean) product!({{ site.baseurl }}/images/assembled-unclean-desk.jpg "The final (unclean) product!")
