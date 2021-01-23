@@ -23,7 +23,7 @@ Here's a list of items, (with non-affiliate links), as well as any tools or othe
  
  These prices are pre-tax, and since I have Amazon Prime (and all items were Prime eligible), shipping was free; I picked up all the Home Depot items in-store (and the Minwax from Lowes). If you choose to do some type of stain, the supplies for that and the product itself will obvious affect your total in the end. **Note on the poly - use satin for this!** Gloss sounds nice and fine but unless you want reflections all day long hitting you in the eyeballs from your desktop, I recommend satin.
  
- # Additional Items Required
+# Additional Items Required
   - Power drill
   - 5/32" wood drill bit
   - Phillips head driver bit
@@ -34,7 +34,7 @@ Here's a list of items, (with non-affiliate links), as well as any tools or othe
   
   No cost associated with these items as I had them all on hand already.
   
-  # Process
+ # Process
   Overall, this is fairly straightforward. The frame assembly will happen per the instructions included with it. Definitely take heed to not over tighten bolts, and, if using the same legs as I have here, keep the 4 bolts in the middle of the assembly that let it slide and change width loose until you're ready to pair the top to the frame.
   
   For the butcher block top, I removed the cardboard and plastic it was packaged in and let it sit in the office it would eventually live in for a few days, propped up against a wall. After about 48 hours, I then put it up on saw horses horizontally, and took a damp (but very wrung-out) shop towel and wiped the entire top and sides down to get rid of any dirt and dust accumulation. After letting that then dry for about a half hour (should be pretty dry to the touch), I surveyed the top -  in my case, it was already fairly smooth and I didn't see any issues with proceeding directly to sealing it; if yours feels uneven or has rough patches, make sure to sand and re-clean it before proceeding!
