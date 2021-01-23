@@ -5,7 +5,7 @@ title: Standing Desk Build
 
 The goal is a desk that can take a hit from a car.
 
-The problem is, the standing desk market is saturated.
+The problem is, the standing desk market is saturated, and a lot of the products have obviously paid-for reviews, no reviews, or just look cheap.
 
 I have had standing desks for approximately 9 years of my career now; all were nice, enterprise models that felt solid and provided a decent working surface. I wanted something nice for my home office, but everything that looked like it would be solid was at least $800+. This led to me doing a little research, and coming up with a rock solid desk for much less that I could also easily put a personal touch on (though I still went fairly simple and just applied a simple poly to seal the top).
 
@@ -43,8 +43,12 @@ Here's a list of items, (with non-affiliate links), as well as any tools or othe
   
   After the first coat, I gave it approximately 2 hours of cure time (averaging 70 degrees in the garage, it was a colder Southern California day). I then took the sand paper and went over the top and sides, being careful to hit the full surface and give it a little grit back. I then wiped it down again with the wet cloth, giving it another 20 minutes of dry time. I then repeated the process of doing a second coat similar to the first, then waiting 2 hours, then sanding & cleaning again, to finally do the 3rd coat. After giving it 2 hours to dry, I proclaimed the top good to go and left it alone for a few more hours to off-gas as much as possible before bringing it in.
   
-  Once back in side, I flipped the top over so the finished surface was face down on the ground, then placed the frame upside down (feet facing up) on top of it, adjusting and playing with the spacing to get everything lined up appropriately. For the width, I measured 2 inches in from both sides, then moved the outer-most portion of the frame to that mark; once the width was dialed in, I tightened down the middle screws to lock it in place. I then measured the 4 points/corners of the frame to make sure it was square on the top - you don't have to get down into 1/16ths of an inch here, but you do want it to be relatively close.
+  {{ site.baseurl }}/images/desk-while-sealing.jpg
+  
+  Once back inside, I flipped the top over so the finished surface was face down on the ground, then placed the frame upside down (feet facing up) on top of it, adjusting and playing with the spacing to get everything lined up appropriately. For the width, I measured 2 inches in from both sides, then moved the outer-most portion of the frame to that mark; once the width was dialed in, I tightened down the middle screws to lock it in place. I then measured the 4 points/corners of the frame to make sure it was square on the top - you don't have to get down into 1/16ths of an inch here, but you do want it to be relatively close.
   
   After everything is positioned, I put the drill bit in the drill and proceeded to ***carefully*** drill pilots in the 8 spots - don't go too deep with these, or you will poke out the top (currently bottom) of your desktop and have a bad time. With those completed, I then ran the screws in, being careful to not overtighten still. After that, the self-tapping screws that the frame came with for the control box and the control display were lined up and ran in, followed by dressing the motors for the cords and display and using the supplied cable ties to dress them up nicely. I also took the opportunity to mount my wire basket (off-center on the right side, for power cord corraling purposes). I affixed the cable holders that came with it along the back edge of the desk to do non-power management (USB, DisplayPort, etc).
   
   Be sure to double-check your placement on your display, and get it right where you want it - try and orient the desk right-side-up in your mind and envision the turns the whole unit will have to go through to get there to determine where you need to put it. I definitely recommend off to one side along the front edge, but you can do whatever you'd like (you'll have to live with it!).
+
+  {{ site.baseurl }}/images/assembled-unclean-desk.jpg
